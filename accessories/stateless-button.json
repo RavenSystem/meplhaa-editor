@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft-07/schema#",
-  "description": "Switch\nA switch can be defined as a Switch or an Outlet. Both types have the same set of options available to them.\n\nhttps://github.com/RavenSystem/esp-homekit-devices/wiki/Switches",
+  "description": "Stateless Button\nStateless buttons can be used to trigger state changes in HomeKit based on the type of press placed on the button.\n\nhttps://github.com/RavenSystem/esp-homekit-devices/wiki/Stateless-Button",
   "type": "object",
   "properties": {
     "0": {
