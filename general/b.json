@@ -3,8 +3,6 @@
   "type": "array",
   "description": "Invoke setup mode\nInputs that can be used to enter setup mode\n\nhttps://github.com/RavenSystem/esp-homekit-devices/wiki/General-Configuration#Buttons-to-invoke-setup-mode",
   "items": {
-    "type": "object",
-    "additionalProperties": false,
-    "properties": {}
+    "$ref": "../binary-input.json"
   }
 }
